@@ -41,6 +41,16 @@ The most important thing about designing in open source is communication. Design
 * [Open Design Now](http://opendesignnow.org/) book
 
 
+## Learn to code
+
+(Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
+
+* [WebPlatform](http://www.webplatform.org/) web development resources
+* [Mozilla Developer Network](https://developer.mozilla.org/) for great web dev documentation
+* [Egghead](http://egghead.io/) to learn the AngularJS framework
+* [Try Git](http://try.github.io/)
+
+
 ## Other nice stuff
 
 * [Libre Graphics magazine](http://libregraphicsmag.com/) print magazine
