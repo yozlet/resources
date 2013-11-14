@@ -37,8 +37,11 @@ The most important thing about designing in open source is communication. Design
 ## Reads
 
 * [10 Heuristics for User Interface Design](http://www.nngroup.com/articles/ten-usability-heuristics/) by Jakob Nielsen (1995)
+* [19 Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) by Joshua Porter
+* [ten principles for good design](https://www.vitsoe.com/gb/about/good-design) by Dieter Rams (1970s)
 * [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
 * [Open Design Now](http://opendesignnow.org/) book
+* [Meaningful Transitions](http://www.ui-transitions.com/#categories) for better cognitive clues
 
 
 ## Learn to code
@@ -47,6 +50,8 @@ The most important thing about designing in open source is communication. Design
 
 * [WebPlatform](http://www.webplatform.org/) web development resources
 * [Mozilla Developer Network](https://developer.mozilla.org/) for great web dev documentation
+* [Unheap](http://www.unheap.com/) a tidy repository of jQuery plugins
+* [Transitional Interfaces, Coded](http://css-tricks.com/transitional-interfaces-coded/) for good animations
 * [Egghead](http://egghead.io/) to learn the AngularJS framework
 * [Try Git](http://try.github.io/)
 
