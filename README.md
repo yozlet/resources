@@ -10,6 +10,22 @@ The most important thing about designing in open source is communication. Design
 * if you want to dive into the code (awesome!) just check on the project page how to set up a development environment and get going.
 
 
+## Open source projects with good design or a design team
+
+* [Mozilla](http://mozilla.org), [UX blog](https://blog.mozilla.org/ux)
+* [GNOME](http://gnome.org) desktop environment, [Design blogs](http://planet.gnome.org/ux/), [Design wiki](https://wiki.gnome.org/Design)
+* [Canonical (Ubuntu)](http://ubuntu.com), [Design blog](http://design.canonical.com)
+* [Wordpress](http://wordpress.org), [Design discussion](http://make.wordpress.org/ui/)
+* [ownCloud](http://owncloud.org) data sync & sharing, [Design issues on Github](https://github.com/owncloud/core/issues?labels=Design), [Design blog](https://owncloud.com/blog/category/design)
+* [Diaspora](https://diasporafoundation.org/) decentralized social network, [UI issues on Github](https://github.com/diaspora/diaspora/issues?labels=ui)
+* [MediaGoblin](http://mediagoblin.org/) media platform
+* [BeWelcome](http://www.bewelcome.org/) hospitality platform
+* [Mailpile](http://www.mailpile.is/) mail interface, [Design ideas on Github](https://github.com/pagekite/mailpile/issues?milestone=2)
+* [Magento](http://magento.com/) e-commerce
+* [Ghost](https://ghost.org/) simple blogging platform
+* [Terms of Service; Didn’t Read](http://tosdr.org/) contract rating
+
+
 ## Material
 
 * [The Noun Project](http://thenounproject.com) for icons
@@ -18,33 +34,11 @@ The most important thing about designing in open source is communication. Design
 * [Creative Commons search](http://search.creativecommons.org) on [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page), [Flickr](https://flickr.com/creativecommons/), [Youtube](https://www.youtube.com/creativecommons), [SoundCloud](http://soundcloud.com/creativecommons), …
 
 
-## Blogs
-
-* [Mozilla](https://blog.mozilla.org/ux)
-* [GNOME](http://planet.gnome.org/ux/)
-* [Canonical (Ubuntu)](http://design.canonical.com)
-* [Wordpress](http://make.wordpress.org/ui/)
-* [ownCloud](https://owncloud.com/blog/category/design)
-
-
 ## Reads
 
 * [10 Heuristics for User Interface Design](http://www.nngroup.com/articles/ten-usability-heuristics/) by Jakob Nielsen (1995)
-* [Gnome Design wiki](https://wiki.gnome.org/Design) with lots of research and concepts
 * [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
-
-
-## Open source projects with good design or a design team
-
-* [Wordpress](http://wordpress.org)
-* [Ghost](https://ghost.org/) simple blogging platform
-* [ownCloud](http://owncloud.org) data sync & sharing, [Design issues on Github](https://github.com/owncloud/core/issues?labels=Design)
-* [Diaspora](https://diasporafoundation.org/) decentralized social network, [UI issues on Github](https://github.com/diaspora/diaspora/issues?labels=ui)
-* [MediaGoblin](http://mediagoblin.org/) media platform
-* [BeWelcome](http://www.bewelcome.org/) hospitality platform
-* [Mailpile](http://www.mailpile.is/) mail interface, [Design ideas on Github](https://github.com/pagekite/mailpile/issues?milestone=2)
-* [Magento](http://magento.com/) e-commerce
-* [Terms of Service; Didn’t Read](http://tosdr.org/) contract rating
+* [Open Design Now](http://opendesignnow.org/) book
 
 
 ## Other nice stuff
@@ -54,4 +48,3 @@ The most important thing about designing in open source is communication. Design
 * [Libre Graphics World](http://libregraphicsworld.org/)
 * [Libre Graphics Meeting](http://libregraphicsmeeting.org/) conference
 * [Open Karma](http://open-karma.com/) platform to connect designers and developers
-* [Open Design Now](http://opendesignnow.org/) book
