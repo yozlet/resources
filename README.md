@@ -15,8 +15,6 @@ The most important thing about designing in open source is communication. Design
 * [The Noun Project](http://thenounproject.com) for icons
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/), [Open Font Library](http://openfontlibrary.org), [Google Web Fonts](http://google.com/fonts)
 * [Bootstrap](http://getbootstrap.com) HTML, CSS & Javascript framework
-* [Wordpress](http://wordpress.org) themes – but design is not theming
-* [Ghost](https://ghost.org/) just a blogging platform
 * [Creative Commons search](http://search.creativecommons.org) on [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page), [Flickr](https://flickr.com/creativecommons/), [Youtube](https://www.youtube.com/creativecommons), [SoundCloud](http://soundcloud.com/creativecommons), …
 
 
@@ -36,8 +34,24 @@ The most important thing about designing in open source is communication. Design
 * [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
 
 
+## Open source projects with good design or a design team
+
+* [Wordpress](http://wordpress.org)
+* [Ghost](https://ghost.org/) simple blogging platform
+* [ownCloud](http://owncloud.org) data sync & sharing, [Design issues on Github](https://github.com/owncloud/core/issues?labels=Design)
+* [Diaspora](https://diasporafoundation.org/) decentralized social network, [UI issues on Github](https://github.com/diaspora/diaspora/issues?labels=ui)
+* [MediaGoblin](http://mediagoblin.org/) media platform
+* [BeWelcome](http://www.bewelcome.org/) hospitality platform
+* [Mailpile](http://www.mailpile.is/) mail interface, [Design ideas on Github](https://github.com/pagekite/mailpile/issues?milestone=2)
+* [Magento](http://magento.com/) e-commerce
+* [Terms of Service; Didn’t Read](http://tosdr.org/) contract rating
+
+
 ## Other nice stuff
 
-* [Libre Graphics magazine](http://libregraphicsmag.com/)
-* [Libre Projects](http://libreprojects.net)
+* [Libre Graphics magazine](http://libregraphicsmag.com/) print magazine
+* [Libre Projects](http://libreprojects.net) collection of nice open source web apps
 * [Libre Graphics World](http://libregraphicsworld.org/)
+* [Libre Graphics Meeting](http://libregraphicsmeeting.org/) conference
+* [Open Karma](http://open-karma.com/) platform to connect designers and developers
+* [Open Design Now](http://opendesignnow.org/) book
