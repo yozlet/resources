@@ -54,6 +54,7 @@ The most important thing about designing in open source is communication. Design
 * [Transitional Interfaces, Coded](http://css-tricks.com/transitional-interfaces-coded/) for good animations
 * [Egghead](http://egghead.io/) to learn the AngularJS framework
 * [Try Git](http://try.github.io/)
+* [code.org](http://code.org/)
 
 
 ## Other nice stuff
