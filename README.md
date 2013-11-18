@@ -36,6 +36,7 @@ The most important thing about designing in open source is communication. Design
 
 ## Reads
 
+* [First Rule of Usability? Don’t Listen to Users](http://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/) by Jakob Nielsen (2001)
 * [10 Heuristics for User Interface Design](http://www.nngroup.com/articles/ten-usability-heuristics/) by Jakob Nielsen (1995)
 * [19 Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) by Joshua Porter
 * [ten principles for good design](https://www.vitsoe.com/gb/about/good-design) by Dieter Rams (1970s)
@@ -52,9 +53,12 @@ The most important thing about designing in open source is communication. Design
 * [Mozilla Developer Network](https://developer.mozilla.org/) for great web dev documentation
 * [Unheap](http://www.unheap.com/) a tidy repository of jQuery plugins
 * [Transitional Interfaces, Coded](http://css-tricks.com/transitional-interfaces-coded/) for good animations
-* [Egghead](http://egghead.io/) to learn the AngularJS framework
-* [Try Git](http://try.github.io/)
+* [Codecademy](http://www.codecademy.com/) with interactive tutorials
+* [Try Git](http://try.github.io/) also with interactive tutorials
 * [code.org](http://code.org/)
+* [Code School](https://www.codeschool.com/) learn even more
+* [Egghead](http://egghead.io/) to learn the AngularJS framework
+
 
 
 ## Other nice stuff
@@ -64,3 +68,5 @@ The most important thing about designing in open source is communication. Design
 * [Libre Graphics World](http://libregraphicsworld.org/)
 * [Libre Graphics Meeting](http://libregraphicsmeeting.org/) conference
 * [Open Karma](http://open-karma.com/) platform to connect designers and developers
+* [Transifex](https://www.transifex.com/connect/projects/) an open translation platform lots of open source projects use
+* [Indiegogo](http://www.indiegogo.com/) crowdfunding platform, also useful for funding open source projects
