@@ -30,9 +30,14 @@ The most important thing about designing in open source is communication. Design
 
 * [The Noun Project](http://thenounproject.com) for icons
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/), [Open Font Library](http://openfontlibrary.org), [Google Web Fonts](http://google.com/fonts)
-* [Bootstrap](http://getbootstrap.com) HTML, CSS & Javascript framework
 * [Creative Commons search](http://search.creativecommons.org) on [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page), [Flickr](https://flickr.com/creativecommons/), [Youtube](https://www.youtube.com/creativecommons), [SoundCloud](http://soundcloud.com/creativecommons), …
 
+
+## Frameworks
+
+* [Bootstrap](http://getbootstrap.com) Fully featured mature HTML, CSS (LESS) & Javascript
+* [Foundation](http://foundation.zurb.com) Fully featured mature HTML, CSS (SASS) & Javascript
+* [Rebar](http://github.com/brennannovak/rebar) Simple lightweight HTML, CSS (LESS)
 
 ## Reads
 
