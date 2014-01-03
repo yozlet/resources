@@ -4,43 +4,36 @@ The most important thing about designing in open source is communication. Design
 
 
 ## Tools
-
 * pen & paper for mockups. No hi-fi photoshop work needed – when we have non-interactive mockups for an interactive medium, pen & paper does the trick.
 * design discussion on the issue tracker of the project. For example at [GitHub](http://github.com) – get an account, identify design issues, participate, and open new issues. Establish a »Design« tag on the tracker to group these issues, for example like in the [ownCloud issues](https://github.com/owncloud/core/issues?labels=Design).
 * if you want to dive into the code (awesome!) just check on the project page how to set up a development environment and get going.
 
 
-## Open source projects with good design or a design team
-
-* [Mozilla](http://mozilla.org), [UX blog](https://blog.mozilla.org/ux)
-* [GNOME](http://gnome.org) desktop environment, [Design blogs](http://planet.gnome.org/ux/), [Design wiki](https://wiki.gnome.org/Design)
-* [Canonical (Ubuntu)](http://ubuntu.com), [Design blog](http://design.canonical.com)
-* [Wordpress](http://wordpress.org), [Design discussion](http://make.wordpress.org/ui/)
-* [ownCloud](http://owncloud.org) data sync & sharing, [Design issues on Github](https://github.com/owncloud/core/issues?labels=Design), [Design blog](https://owncloud.com/blog/category/design)
-* [Diaspora](https://diasporafoundation.org/) decentralized social network, [UI issues on Github](https://github.com/diaspora/diaspora/issues?labels=ui)
-* [MediaGoblin](http://mediagoblin.org/) media platform
-* [BeWelcome](http://www.bewelcome.org/) hospitality platform
-* [Mailpile](http://www.mailpile.is/) mail interface, [Design ideas on Github](https://github.com/pagekite/mailpile/issues?milestone=2)
-* [Magento](http://magento.com/) e-commerce
-* [Ghost](https://ghost.org/) simple blogging platform
-* [Terms of Service; Didn’t Read](http://tosdr.org/) contract rating
-
-
 ## Material
+* [Creative Commons search](http://search.creativecommons.org)
+* [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
+* [Flickr](https://flickr.com/creativecommons/)
+* [Youtube](https://www.youtube.com/creativecommons)
+* [SoundCloud](http://soundcloud.com/creativecommons)
+* [Vimeo Music Store](https://vimeo.com/musicstore) has CC and purchaseable icons
 
-* [The Noun Project](http://thenounproject.com) for icons
-* [The League of Movable Type](https://www.theleagueofmoveabletype.com/), [Open Font Library](http://openfontlibrary.org), [Google Web Fonts](http://google.com/fonts)
-* [Creative Commons search](http://search.creativecommons.org) on [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page), [Flickr](https://flickr.com/creativecommons/), [Youtube](https://www.youtube.com/creativecommons), [SoundCloud](http://soundcloud.com/creativecommons), …
+
+## Icons
+* [The Noun Project](http://thenounproject.com) CC and purchaseable icons
+
+
+## Fonts
+* [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
+* [Open Font Library](http://openfontlibrary.org)
+* [Google Web Fonts](http://google.com/fonts)
 
 
 ## Frameworks
-
 * [Bootstrap](http://getbootstrap.com) Fully featured mature HTML, CSS (LESS) & Javascript
 * [Foundation](http://foundation.zurb.com) Fully featured mature HTML, CSS (SASS) & Javascript
 * [Rebar](http://github.com/brennannovak/rebar) Simple lightweight HTML, CSS (LESS)
 
 ## Reads
-
 * [First Rule of Usability? Don’t Listen to Users](http://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/) by Jakob Nielsen (2001)
 * [10 Heuristics for User Interface Design](http://www.nngroup.com/articles/ten-usability-heuristics/) by Jakob Nielsen (1995)
 * [19 Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) by Joshua Porter
@@ -51,7 +44,6 @@ The most important thing about designing in open source is communication. Design
 
 
 ## Learn to code
-
 (Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
 
 * [WebPlatform](http://www.webplatform.org/) web development resources
@@ -67,7 +59,6 @@ The most important thing about designing in open source is communication. Design
 
 
 ## Other nice stuff
-
 * [Libre Graphics magazine](http://libregraphicsmag.com/) print magazine
 * [Libre Projects](http://libreprojects.net) collection of nice open source web apps
 * [Libre Graphics World](http://libregraphicsworld.org/)
