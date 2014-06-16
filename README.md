@@ -20,6 +20,7 @@ The most important thing about designing in open source is communication. Design
 
 ## Icons
 * [The Noun Project](http://thenounproject.com) CC and purchaseable icons
+* [IcoMoon](http://icomoon.io/) CC icons and free to use icon-font creation software.
 
 
 ## Fonts
