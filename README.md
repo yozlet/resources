@@ -68,3 +68,5 @@ The most important thing about designing in open source is communication. Design
 * [Open Karma](http://open-karma.com/) platform to connect designers and developers
 * [Transifex](https://www.transifex.com/connect/projects/) an open translation platform lots of open source projects use
 * [Indiegogo](http://www.indiegogo.com/) crowdfunding platform, also useful for funding open source projects
+* [Beautiful Open](http://beautifulopen.com) Beautiful sites for Open Source projects.
+* [Design Open Src](http://designopensrc.com/index.html#/) A list of awesome designers willing to work on Open Src projects, created by @clintonhalpin
