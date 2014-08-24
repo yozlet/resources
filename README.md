@@ -70,3 +70,4 @@ The most important thing about designing in open source is communication. Design
 * [Indiegogo](http://www.indiegogo.com/) crowdfunding platform, also useful for funding open source projects
 * [Beautiful Open](http://beautifulopen.com) Beautiful sites for Open Source projects.
 * [Design Open Src](http://designopensrc.com/index.html#/) A list of awesome designers willing to work on Open Src projects, created by @clintonhalpin
+* [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design and hardware group. 
