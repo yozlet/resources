@@ -31,7 +31,7 @@ The most important thing about designing in open source is communication. Design
 
 ## Frameworks
 * [Bootstrap](http://getbootstrap.com) Fully featured mature HTML, CSS (LESS) & Javascript
-* [Foundation](http://foundation.zurb.com) Fully featured mature HTML, CSS (SASS) & Javascript
+* [Foundation](http://foundation.zurb.com) Fully featured mature HTML, CSS (Sass) & Javascript
 * [Rebar](http://github.com/brennannovak/rebar) Simple lightweight HTML, CSS (LESS)
 
 ## Reads
