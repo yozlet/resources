@@ -40,6 +40,7 @@ The most important thing about designing in open source is communication. Design
 * [19 Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) by Joshua Porter
 * [ten principles for good design](https://www.vitsoe.com/gb/about/good-design) by Dieter Rams (1970s)
 * [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
+* [A Beginner’s Guide to Finding User Needs](http://jdittrich.github.io/userNeedResearchBook/)
 * [Open Design Now](http://opendesignnow.org/) book
 * [How to get designers (or anyone) to work on your open source project](http://opensourcedesign.is/blogging_about/import-designers/) recent article on opensourcedesign.is
 
