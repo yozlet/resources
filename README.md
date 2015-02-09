@@ -41,7 +41,6 @@ The most important thing about designing in open source is communication. Design
 * [ten principles for good design](https://www.vitsoe.com/gb/about/good-design) by Dieter Rams (1970s)
 * [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
 * [Open Design Now](http://opendesignnow.org/) book
-* [Meaningful Transitions](http://www.ui-transitions.com/#categories) for better cognitive clues
 * [How to get designers (or anyone) to work on your open source project](http://opensourcedesign.is/blogging_about/import-designers/) recent article on opensourcedesign.is
 
 
