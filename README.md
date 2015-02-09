@@ -64,7 +64,6 @@ The most important thing about designing in open source is communication. Design
 * [Libre Projects](http://libreprojects.net) collection of nice open source web apps
 * [Libre Graphics World](http://libregraphicsworld.org/)
 * [Libre Graphics Meeting](http://libregraphicsmeeting.org/) conference
-* [Open Karma](http://open-karma.com/) platform to connect designers and developers
 * [Transifex](https://www.transifex.com/connect/projects/) an open translation platform lots of open source projects use
 * [Indiegogo](http://www.indiegogo.com/) crowdfunding platform, also useful for funding open source projects
 * [Beautiful Open](http://beautifulopen.com) Beautiful sites for Open Source projects.
