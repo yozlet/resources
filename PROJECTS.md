@@ -15,3 +15,4 @@ Open source projects with good design or a design teams
 * [Magento](http://magento.com/) e-commerce
 * [Ghost](https://ghost.org/) simple blogging platform
 * [Terms of Service; Didn’t Read](http://tosdr.org/) contract rating
+* [Libre Office](https://www.libreoffice.org/), [Design Community](https://www.libreoffice.org/community/design/)
