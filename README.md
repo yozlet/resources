@@ -40,8 +40,8 @@ The most important thing about designing in open source is communication. Design
 * [19 Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) by Joshua Porter
 * [ten principles for good design](https://www.vitsoe.com/gb/about/good-design) by Dieter Rams (1970s)
 * [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
+* [A Beginner’s Guide to Finding User Needs](http://jdittrich.github.io/userNeedResearchBook/)
 * [Open Design Now](http://opendesignnow.org/) book
-* [Meaningful Transitions](http://www.ui-transitions.com/#categories) for better cognitive clues
 * [How to get designers (or anyone) to work on your open source project](http://opensourcedesign.is/blogging_about/import-designers/) recent article on opensourcedesign.is
 
 
@@ -65,7 +65,6 @@ The most important thing about designing in open source is communication. Design
 * [Libre Projects](http://libreprojects.net) collection of nice open source web apps
 * [Libre Graphics World](http://libregraphicsworld.org/)
 * [Libre Graphics Meeting](http://libregraphicsmeeting.org/) conference
-* [Open Karma](http://open-karma.com/) platform to connect designers and developers
 * [Transifex](https://www.transifex.com/connect/projects/) an open translation platform lots of open source projects use
 * [Indiegogo](http://www.indiegogo.com/) crowdfunding platform, also useful for funding open source projects
 * [Beautiful Open](http://beautifulopen.com) Beautiful sites for Open Source projects.
