@@ -43,9 +43,11 @@ The most important thing about designing in open source is communication. Design
 * [A Beginner’s Guide to Finding User Needs](http://jdittrich.github.io/userNeedResearchBook/)
 * [Open Design Now](http://opendesignnow.org/) book
 * [How to get designers (or anyone) to work on your open source project](http://opensourcedesign.is/blogging_about/import-designers/) recent article on opensourcedesign.is
+* [Don't Make Me Think](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_1?s=books&ie=UTF8&qid=1371607999&sr=1-1&keywords=don%27t+make+me+think)
+* [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?s=books&ie=UTF8&qid=1371607869&sr=1-1&keywords=the+design+of+everyday+things)
 
 
-## Learn to code
+## Learn to Code
 (Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
 
 * [WebPlatform](http://www.webplatform.org/) web development resources
@@ -58,6 +60,12 @@ The most important thing about designing in open source is communication. Design
 * [Code School](https://www.codeschool.com/) learn even more
 * [Egghead](http://egghead.io/) to learn the AngularJS framework
 
+## Learn to Design
+Learn about design concepts!
+
+* [Hack Design](https://hackdesign.org/) Free design lessons by inspirational designers
+* [Design Lab](http://trydesignlab.com/) Design course with mentorshop and projcts
+* [Voice and Tone](http://voiceandtone.com/) Learn about writing good copy
 
 
 ## Other nice stuff
@@ -69,4 +77,4 @@ The most important thing about designing in open source is communication. Design
 * [Indiegogo](http://www.indiegogo.com/) crowdfunding platform, also useful for funding open source projects
 * [Beautiful Open](http://beautifulopen.com) Beautiful sites for Open Source projects.
 * [Design Open Src](http://designopensrc.com/index.html#/) A list of awesome designers willing to work on Open Src projects, created by @clintonhalpin
-* [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design and hardware group. 
+* [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design and hardware group.
