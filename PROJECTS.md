@@ -4,6 +4,7 @@ Open source projects with good design or a design teams
 
 * [Mozilla](http://mozilla.org), [UX blog](https://blog.mozilla.org/ux)
 * [GNOME](http://gnome.org) desktop environment [Design blogs](http://planet.gnome.org/ux/), [Design wiki](https://wiki.gnome.org/Design)
+* [Fedora](http://getfedora.org), [Design blogs](http://planet.fedoraproject.org/design), [Design Team wiki](http://fedoraproject.org/wiki/Design)
 * [Canonical (Ubuntu)](http://ubuntu.com), [Design blog](http://design.canonical.com)
 * [Wordpress](http://wordpress.org), [Design discussion](http://make.wordpress.org/ui/)
 * [Drupal](http://drupal.org), [usability group](https://groups.drupal.org/usability), [UI standards](https://drupal.org/ui-standards)
