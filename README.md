@@ -12,16 +12,26 @@ The most important thing about designing in open source is communication. Design
 ## Material
 * [Creative Commons search](http://search.creativecommons.org)
 * [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
-* [Flickr](https://flickr.com/creativecommons/)
 * [Youtube](https://www.youtube.com/creativecommons)
 * [SoundCloud](http://soundcloud.com/creativecommons)
 * [Vimeo Music Store](https://vimeo.com/musicstore) has CC and purchaseable icons
+
+
+## Images
+* [Gratisography](http://www.gratisography.com/)
+* [Tinyography](http://www.tinyography.com/)
+* [Flickr](https://flickr.com/creativecommons/)
+* [The Stocks](http://thestocks.im/)
+* [FreeImages](http://www.freeimages.com/)
+* [Unsplash](https://unsplash.com/)
+* [Pexels](http://www.pexels.com/)
 
 
 ## Icons
 * [The Noun Project](http://thenounproject.com) CC and purchaseable icons
 * [IcoMoon](http://icomoon.io/) CC icons and free to use icon-font creation software.
 * [Pictogramas](http://github.com/adrianmg/pictogramas) open source free icons for personal and commercial purposes
+* [ToIcon](http://www.toicon.com/) All icons are licensed under a Creative Commons 
 
 
 ## Fonts
