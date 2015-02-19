@@ -13,6 +13,7 @@ Open source projects with good design or a design teams
 * [MediaGoblin](http://mediagoblin.org/) media platform
 * [BeWelcome](http://www.bewelcome.org/) hospitality platform
 * [Mailpile](http://www.mailpile.is/) mail interface, [Design ideas on Github](https://github.com/pagekite/mailpile/issues?milestone=2)
+* [Middleman](https://middlemanapp.com/) Middleman is a static site generator using all the shortcuts and tools in modern web development.
 * [Magento](http://magento.com/) e-commerce
 * [Ghost](https://ghost.org/) simple blogging platform
 * [Terms of Service; Didn’t Read](http://tosdr.org/) contract rating
