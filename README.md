@@ -56,6 +56,7 @@ The most important thing about designing in open source is communication. Design
 * [How to get designers (or anyone) to work on your open source project](http://opensourcedesign.is/blogging_about/import-designers/) recent article on opensourcedesign.is
 * [Don't Make Me Think](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_1?s=books&ie=UTF8&qid=1371607999&sr=1-1&keywords=don%27t+make+me+think)
 * [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?s=books&ie=UTF8&qid=1371607869&sr=1-1&keywords=the+design+of+everyday+things)
+* [Design principles for UI/UX](http://learndesignprinciples.com/)
 
 
 ## Learn to Code
