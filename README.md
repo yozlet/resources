@@ -33,7 +33,7 @@ The most important thing about designing in open source is communication. Design
 * [IcoMoon](http://icomoon.io/) CC icons and free to use icon-font creation software.
 * [Pictogramas](http://github.com/adrianmg/pictogramas) open source free icons for personal and commercial purposes
 * [ToIcon](http://www.toicon.com/) All icons are licensed under a Creative Commons 
-
+* [Inkscape Open Symbols](https://github.com/Xaviju/inkscape-open-symbols) Open source icon sets to use as Inkscape symbols
 
 ## Fonts
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
