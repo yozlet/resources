@@ -59,6 +59,8 @@ The most important thing about designing in open source is communication. Design
 * [Don't Make Me Think](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_1?s=books&ie=UTF8&qid=1371607999&sr=1-1&keywords=don%27t+make+me+think)
 * [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?s=books&ie=UTF8&qid=1371607869&sr=1-1&keywords=the+design+of+everyday+things)
 * [Design principles for UI/UX](http://learndesignprinciples.com/)
+* [Bariers Faced by newcomers to open source projects: a systematic review](http://www.academia.edu/6537077/Barriers_faced_by_newcomers_to_open_source_projects_a_systematic_review)
+* [An Exploration of Fedora's Online Open Source Development Community](https://www.academia.edu/4303779/An_Exploration_of_Fedora_s_Online_Open_Source_Development_Community) 2013
 
 
 ## Learn to Code
