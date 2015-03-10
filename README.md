@@ -4,24 +4,37 @@ The most important thing about designing in open source is communication. Design
 
 
 ## Tools
-* pen & paper for mockups and even prototypes. No hi-fi photoshop work needed. ([Article on ALA](http://alistapart.com/article/paperprototyping))
-* design discussion on the issue tracker of the project. For example at [GitHub](http://github.com) – get an account, identify design issues, participate, and open new issues. Establish a »Design« tag on the tracker to group these issues, for example like in the [ownCloud issues](https://github.com/owncloud/core/issues?labels=Design).
-* if you want to Take me to [dive into the code](#jumpToCodeAnchor) (awesome!) just check on the project page how to set up a development environment and get going.
+* Pen & paper for mockups and prototypes.. No hi-fi Photoshop work needed ([Article on Paper Mockups](http://alistapart.com/article/paperprototyping)).
+* Design discussion on the issue tracker of the project. For example at [GitHub](http://github.com) – get an account, identify design issues, participate, and open new issues. Establish a »Design« tag on the tracker to group these issues, for example like in the [ownCloud issues](https://github.com/owncloud/core/issues?labels=Design).
+* If you want to dive into the code (awesome!) just check on the project page how to set up a development environment and get going.
 
 
 ## Material
 * [Creative Commons search](http://search.creativecommons.org)
 * [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
-* [Flickr](https://flickr.com/creativecommons/)
 * [Youtube](https://www.youtube.com/creativecommons)
 * [SoundCloud](http://soundcloud.com/creativecommons)
-* [Vimeo Music Store](https://vimeo.com/musicstore) has CC and purchaseable icons
+* [Vimeo Music Store](https://vimeo.com/musicstore) has CC and purchasable icons
+
+
+## Images
+* [Gratisography](http://www.gratisography.com/)
+* [Tinyography](http://www.tinyography.com/)
+* [Flickr](https://flickr.com/creativecommons/)
+* [The Stocks](http://thestocks.im/)
+* [FreeImages](http://www.freeimages.com/)
+* [Unsplash](https://unsplash.com/)
+* [Pexels](http://www.pexels.com/)
+* [StockSnap](https://stocksnap.io/)
+* [FindA.Photo](http://finda.photo/)
 
 
 ## Icons
-* [The Noun Project](http://thenounproject.com) CC and purchaseable icons
+* [The Noun Project](http://thenounproject.com) CC and purchasable icons
 * [IcoMoon](http://icomoon.io/) CC icons and free to use icon-font creation software.
-
+* [Pictogramas](http://github.com/adrianmg/pictogramas) open source free icons for personal and commercial purposes
+* [ToIcon](http://www.toicon.com/) All icons are licensed under a Creative Commons
+* [Inkscape Open Symbols](https://github.com/Xaviju/inkscape-open-symbols) Open source icon sets to use as Inkscape symbols
 
 ## Fonts
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
@@ -43,24 +56,37 @@ The most important thing about designing in open source is communication. Design
 * [A Beginner’s Guide to Finding User Needs](http://jdittrich.github.io/userNeedResearchBook/)
 * [Open Design Now](http://opendesignnow.org/) book
 * [How to get designers (or anyone) to work on your open source project](http://opensourcedesign.is/blogging_about/import-designers/) recent article on opensourcedesign.is
+* [Don't Make Me Think](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_1?s=books&ie=UTF8&qid=1371607999&sr=1-1&keywords=don%27t+make+me+think)
+* [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?s=books&ie=UTF8&qid=1371607869&sr=1-1&keywords=the+design+of+everyday+things)
+* [Design principles for UI/UX](http://learndesignprinciples.com/)
 
 
+<<<<<<< HEAD
 ## Learn to code
 
 <a name="jumpToCodeAnchor"></a>
 
+=======
+## Learn to Code
+>>>>>>> 52d5ed48708e7ef8b4997b25e7b1d1c868eeb724
 (Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
 
-* [WebPlatform](http://www.webplatform.org/) web development resources
-* [Mozilla Developer Network](https://developer.mozilla.org/) for great web dev documentation
-* [Unheap](http://www.unheap.com/) a tidy repository of jQuery plugins
-* [Transitional Interfaces, Coded](http://css-tricks.com/transitional-interfaces-coded/) for good animations
-* [Codecademy](http://www.codecademy.com/) with interactive tutorials
-* [Try Git](http://try.github.io/) also with interactive tutorials
+* [WebPlatform](http://www.webplatform.org/) web development resources.
+* [Mozilla Developer Network](https://developer.mozilla.org/) for great web dev documentation.
+* [Unheap](http://www.unheap.com/) a tidy repository of jQuery plugins.
+* [Transitional Interfaces, Coded](http://css-tricks.com/transitional-interfaces-coded/) for good animations.
+* [Codecademy](http://www.codecademy.com/) with interactive tutorials.
+* [Try Git](http://try.github.io/) also with interactive tutorials.
 * [code.org](http://code.org/)
-* [Code School](https://www.codeschool.com/) learn even more
-* [Egghead](http://egghead.io/) to learn the AngularJS framework
+* [Code School](https://www.codeschool.com/) learn even more.
+* [Egghead](http://egghead.io/) to learn the AngularJS framework.
 
+## Learn to Design
+Learn about design concepts!
+
+* [Hack Design](https://hackdesign.org/) Free design lessons by inspirational designers.
+* [Design Lab](http://trydesignlab.com/) Design course with mentorshop and projects.
+* [Voice and Tone](http://voiceandtone.com/) Learn about writing good copy.
 
 
 ## Other nice stuff
@@ -72,4 +98,4 @@ The most important thing about designing in open source is communication. Design
 * [Indiegogo](http://www.indiegogo.com/) crowdfunding platform, also useful for funding open source projects
 * [Beautiful Open](http://beautifulopen.com) Beautiful sites for Open Source projects.
 * [Design Open Src](http://designopensrc.com/index.html#/) A list of awesome designers willing to work on Open Src projects, created by @clintonhalpin
-* [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design and hardware group. 
+* [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design and hardware group.
