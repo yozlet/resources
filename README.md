@@ -26,6 +26,7 @@ The most important thing about designing in open source is communication. Design
 * [Unsplash](https://unsplash.com/)
 * [Pexels](http://www.pexels.com/)
 * [StockSnap](https://stocksnap.io/)
+* [FindA.Photo](http://finda.photo/)
 
 
 ## Icons
