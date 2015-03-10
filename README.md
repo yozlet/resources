@@ -4,9 +4,9 @@ The most important thing about designing in open source is communication. Design
 
 
 ## Tools
-* pen & paper for mockups. No hi-fi photoshop work needed – when we have non-interactive mockups for an interactive medium, pen & paper does the trick.
-* design discussion on the issue tracker of the project. For example at [GitHub](http://github.com) – get an account, identify design issues, participate, and open new issues. Establish a »Design« tag on the tracker to group these issues, for example like in the [ownCloud issues](https://github.com/owncloud/core/issues?labels=Design).
-* if you want to dive into the code (awesome!) just check on the project page how to set up a development environment and get going.
+* Pen & paper for mockups. No hi-fi Photoshop work needed – when we have non-interactive mockups for an interactive medium, pen & paper does the trick.
+* Design discussion on the issue tracker of the project. For example at [GitHub](http://github.com) – get an account, identify design issues, participate, and open new issues. Establish a »Design« tag on the tracker to group these issues, for example like in the [ownCloud issues](https://github.com/owncloud/core/issues?labels=Design).
+* If you want to dive into the code (awesome!) just check on the project page how to set up a development environment and get going.
 
 
 ## Material
@@ -14,7 +14,7 @@ The most important thing about designing in open source is communication. Design
 * [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
 * [Youtube](https://www.youtube.com/creativecommons)
 * [SoundCloud](http://soundcloud.com/creativecommons)
-* [Vimeo Music Store](https://vimeo.com/musicstore) has CC and purchaseable icons
+* [Vimeo Music Store](https://vimeo.com/musicstore) has CC and purchasable icons
 
 
 ## Images
@@ -30,10 +30,10 @@ The most important thing about designing in open source is communication. Design
 
 
 ## Icons
-* [The Noun Project](http://thenounproject.com) CC and purchaseable icons
+* [The Noun Project](http://thenounproject.com) CC and purchasable icons
 * [IcoMoon](http://icomoon.io/) CC icons and free to use icon-font creation software.
 * [Pictogramas](http://github.com/adrianmg/pictogramas) open source free icons for personal and commercial purposes
-* [ToIcon](http://www.toicon.com/) All icons are licensed under a Creative Commons 
+* [ToIcon](http://www.toicon.com/) All icons are licensed under a Creative Commons
 * [Inkscape Open Symbols](https://github.com/Xaviju/inkscape-open-symbols) Open source icon sets to use as Inkscape symbols
 
 ## Fonts
@@ -64,22 +64,22 @@ The most important thing about designing in open source is communication. Design
 ## Learn to Code
 (Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
 
-* [WebPlatform](http://www.webplatform.org/) web development resources
-* [Mozilla Developer Network](https://developer.mozilla.org/) for great web dev documentation
-* [Unheap](http://www.unheap.com/) a tidy repository of jQuery plugins
-* [Transitional Interfaces, Coded](http://css-tricks.com/transitional-interfaces-coded/) for good animations
-* [Codecademy](http://www.codecademy.com/) with interactive tutorials
-* [Try Git](http://try.github.io/) also with interactive tutorials
+* [WebPlatform](http://www.webplatform.org/) web development resources.
+* [Mozilla Developer Network](https://developer.mozilla.org/) for great web dev documentation.
+* [Unheap](http://www.unheap.com/) a tidy repository of jQuery plugins.
+* [Transitional Interfaces, Coded](http://css-tricks.com/transitional-interfaces-coded/) for good animations.
+* [Codecademy](http://www.codecademy.com/) with interactive tutorials.
+* [Try Git](http://try.github.io/) also with interactive tutorials.
 * [code.org](http://code.org/)
-* [Code School](https://www.codeschool.com/) learn even more
-* [Egghead](http://egghead.io/) to learn the AngularJS framework
+* [Code School](https://www.codeschool.com/) learn even more.
+* [Egghead](http://egghead.io/) to learn the AngularJS framework.
 
 ## Learn to Design
 Learn about design concepts!
 
-* [Hack Design](https://hackdesign.org/) Free design lessons by inspirational designers
-* [Design Lab](http://trydesignlab.com/) Design course with mentorshop and projcts
-* [Voice and Tone](http://voiceandtone.com/) Learn about writing good copy
+* [Hack Design](https://hackdesign.org/) Free design lessons by inspirational designers.
+* [Design Lab](http://trydesignlab.com/) Design course with mentorshop and projects.
+* [Voice and Tone](http://voiceandtone.com/) Learn about writing good copy.
 
 
 ## Other nice stuff

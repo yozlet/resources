@@ -1,6 +1,6 @@
 # Projects
 
-Open source projects with good design or a design teams
+Open source projects with good design or a design team.
 
 * [Mozilla](http://mozilla.org), [UX blog](https://blog.mozilla.org/ux)
 * [GNOME](http://gnome.org) desktop environment [Design blogs](http://planet.gnome.org/ux/), [Design wiki](https://wiki.gnome.org/Design)
