@@ -29,12 +29,20 @@ The most important thing about designing in open source is communication. Design
 * [FindA.Photo](http://finda.photo/)
 
 
+## Inspiration
+* [UI Interaction Library](http://useyourinterface.com/)
+* [Pattern Tap](http://patterntap.com/)
+* [Codrops](http://tympanus.net/codrops/)
+
+
 ## Icons
 * [The Noun Project](http://thenounproject.com) CC and purchaseable icons
 * [IcoMoon](http://icomoon.io/) CC icons and free to use icon-font creation software.
-* [Pictogramas](http://github.com/adrianmg/pictogramas) open source free icons for personal and commercial purposes
-* [ToIcon](http://www.toicon.com/) All icons are licensed under a Creative Commons 
+* [Pictogramas](http://github.com/adrianmg/pictogramas) Open source free icons for personal and commercial purposes
+* [ToIcon](http://www.toicon.com/) All icons are licensed under a Creative Commons
 * [Inkscape Open Symbols](https://github.com/Xaviju/inkscape-open-symbols) Open source icon sets to use as Inkscape symbols
+* [IconMonstr](http://iconmonstr.com/) A large collection of glyph icons from a German artist. Free to use without attribution and free to modify
+
 
 ## Fonts
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
@@ -46,6 +54,11 @@ The most important thing about designing in open source is communication. Design
 * [Bootstrap](http://getbootstrap.com) Fully featured mature HTML, CSS (LESS) & Javascript
 * [Foundation](http://foundation.zurb.com) Fully featured mature HTML, CSS (Sass) & Javascript
 * [Rebar](http://github.com/brennannovak/rebar) Simple lightweight HTML, CSS (LESS)
+* [BASCSS](http://www.basscss.com/) Lightning-Fast, Modular CSS for Designers
+* [Bourbon](http://bourbon.io/) A simple and lightweight mixin library for Sass
+* [Kickoff](http://tmwagency.github.io/kickoff/) A lightweight front-end framework for creating scalable, responsive sites
+* [Space Base](http://spacebase.space150.com/) A sass-based responsive css framework
+
 
 ## Reads
 * [First Rule of Usability? Don’t Listen to Users](http://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/) by Jakob Nielsen (2001)
@@ -73,6 +86,7 @@ The most important thing about designing in open source is communication. Design
 * [code.org](http://code.org/)
 * [Code School](https://www.codeschool.com/) learn even more
 * [Egghead](http://egghead.io/) to learn the AngularJS framework
+
 
 ## Learn to Design
 Learn about design concepts!
