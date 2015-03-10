@@ -60,15 +60,7 @@ The most important thing about designing in open source is communication. Design
 * [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?s=books&ie=UTF8&qid=1371607869&sr=1-1&keywords=the+design+of+everyday+things)
 * [Design principles for UI/UX](http://learndesignprinciples.com/)
 
-
-<<<<<<< HEAD
-## Learn to code
-
-<a name="jumpToCodeAnchor"></a>
-
-=======
 ## Learn to Code
->>>>>>> 52d5ed48708e7ef8b4997b25e7b1d1c868eeb724
 (Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
 
 * [WebPlatform](http://www.webplatform.org/) web development resources.
