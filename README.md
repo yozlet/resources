@@ -4,7 +4,7 @@ The most important thing about designing in open source is communication. Design
 
 
 ## Tools
-* Pen & paper for mockups. No hi-fi Photoshop work needed – when we have non-interactive mockups for an interactive medium, pen & paper does the trick.
+* Pen & paper for [mockups and prototypes](http://alistapart.com/article/paperprototyping). No hi-fi Photoshop work needed.
 * Design discussion on the issue tracker of the project. For example at [GitHub](http://github.com) – get an account, identify design issues, participate, and open new issues. Establish a »Design« tag on the tracker to group these issues, for example like in the [ownCloud issues](https://github.com/owncloud/core/issues?labels=Design).
 * If you want to dive into the code (awesome!) just check on the project page how to set up a development environment and get going.
 
@@ -61,7 +61,6 @@ The most important thing about designing in open source is communication. Design
 * [Design principles for UI/UX](http://learndesignprinciples.com/)
 * [Bariers Faced by newcomers to open source projects: a systematic review](http://www.academia.edu/6537077/Barriers_faced_by_newcomers_to_open_source_projects_a_systematic_review)
 * [An Exploration of Fedora's Online Open Source Development Community](https://www.academia.edu/4303779/An_Exploration_of_Fedora_s_Online_Open_Source_Development_Community) 2013
-
 
 ## Learn to Code
 (Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
