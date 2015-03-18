@@ -47,20 +47,26 @@ The most important thing about designing in open source is communication. Design
 * [Foundation](http://foundation.zurb.com) Fully featured mature HTML, CSS (Sass) & Javascript
 * [Rebar](http://github.com/brennannovak/rebar) Simple lightweight HTML, CSS (LESS)
 
-## Reads
+## General Design Reads
 * [First Rule of Usability? Don’t Listen to Users](http://www.nngroup.com/articles/first-rule-of-usability-dont-listen-to-users/) by Jakob Nielsen (2001)
 * [10 Heuristics for User Interface Design](http://www.nngroup.com/articles/ten-usability-heuristics/) by Jakob Nielsen (1995)
 * [19 Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/) by Joshua Porter
 * [ten principles for good design](https://www.vitsoe.com/gb/about/good-design) by Dieter Rams (1970s)
-* [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
 * [A Beginner’s Guide to Finding User Needs](http://jdittrich.github.io/userNeedResearchBook/)
-* [Open Design Now](http://opendesignnow.org/) book
-* [How to get designers (or anyone) to work on your open source project](http://opensourcedesign.is/blogging_about/import-designers/) recent article on opensourcedesign.is
 * [Don't Make Me Think](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758/ref=sr_1_1?s=books&ie=UTF8&qid=1371607999&sr=1-1&keywords=don%27t+make+me+think)
 * [The Design of Everyday Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107/ref=sr_1_1?s=books&ie=UTF8&qid=1371607869&sr=1-1&keywords=the+design+of+everyday+things)
 * [Design principles for UI/UX](http://learndesignprinciples.com/)
-* [Bariers Faced by newcomers to open source projects: a systematic review](http://www.academia.edu/6537077/Barriers_faced_by_newcomers_to_open_source_projects_a_systematic_review)
-* [An Exploration of Fedora's Online Open Source Development Community](https://www.academia.edu/4303779/An_Exploration_of_Fedora_s_Online_Open_Source_Development_Community) 2013
+
+## Open Source and Design Reads
+
+* [Open Design Now](http://opendesignnow.org/) book
+* [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
+* [How to get designers (or anyone) to work on your open source project](http://designopen.org/articles/import-designers/) recent article on Design Open
+* [Bariers Faced by newcomers to open source projects: a systematic review](http://www.academia.edu/6537077/Barriers_faced_by_newcomers_to_open_source_projects_a_systematic_review) Research Paper
+* [An Exploration of Fedora's Online Open Source Development Community](https://www.academia.edu/4303779/An_Exploration_of_Fedora_s_Online_Open_Source_Development_Community) Research Paper
+* [Designers and women in open source](http://old.vi.to/designers-and-women-in-open-source.html) Why designing is difficult for Open Source
+* [Designers, Women, and Hostility in Open Source Project](http://smarterware.org/7550/designers-women-and-hostility-in-open-source) Follow up to the above article.
+* [Barriers for Designers](http://designopen.org/articles/barriers-for-designers/) What bariers designers face when contributing to Open Source
 
 ## Learn to Code
 (Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
