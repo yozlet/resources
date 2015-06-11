@@ -91,6 +91,7 @@ Learn about design concepts!
 
 
 ## Other nice stuff
+* [Tota11y](https://github.com/Khan/tota11y) a bookmarklet to check that your website is a11y compliant.
 * [Libre Graphics magazine](http://libregraphicsmag.com/) print magazine
 * [Libre Projects](http://libreprojects.net) collection of nice open source web apps
 * [Libre Graphics World](http://libregraphicsworld.org/)
