@@ -81,6 +81,7 @@ The most important thing about designing in open source is communication. Design
 * [code.org](http://code.org/)
 * [Code School](https://www.codeschool.com/) learn even more.
 * [Egghead](http://egghead.io/) to learn the AngularJS framework.
+* [Tota11y](https://github.com/Khan/tota11y) a bookmarklet to check that your website is a11y compliant.
 
 ## Learn to Design
 Learn about design concepts!
