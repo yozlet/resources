@@ -8,3 +8,4 @@ Are you a designer interested in doing open source design or simply seeing what 
 
 - A list of open source projects with an attenion to design - [see projects](PROJECTS.md)
 - A list of tools and resources for designers to work with - [see resources](README.md)
+- A list of designers who work heavily on open source projects and tools - [see people](PEOPLE.md)
