@@ -102,3 +102,4 @@ Learn about design concepts!
 * [Beautiful Open](http://beautifulopen.com) Beautiful sites for Open Source projects.
 * [Design Open Src](http://designopensrc.com/index.html#/) A list of awesome designers willing to work on Open Src projects, created by @clintonhalpin
 * [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design and hardware group.
+* [PIXLS.US](https://pixls.us) Free/Open Source Photography
