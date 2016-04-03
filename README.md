@@ -104,6 +104,3 @@ Learn about design concepts!
 * [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design and hardware group.
 * [PIXLS.US](https://pixls.us) Free/Open Source Photography
 
-## A Quote to Live By
-Good design is all about making
-other designers feel like idiots because that idea wasn’t theirs.
