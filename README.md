@@ -4,7 +4,7 @@ The most important thing about designing in open source is communication. Design
 
 
 ## Tools
-* Pen & paper for [mockups and prototypes](http://alistapart.com/article/paperprototyping). No hi-fi Photoshop work needed.
+* Use a pen & paper for [mockups and prototypes](http://alistapart.com/article/paperprototyping). No hi-fi Photoshop work needed.
 * Design discussion on the issue tracker of the project. For example at [GitHub](http://github.com) – get an account, identify design issues, participate, and open new issues. Establish a »Design« tag on the tracker to group these issues, for example like in the [ownCloud issues](https://github.com/owncloud/core/issues?labels=Design).
 * If you want to dive into the code (awesome!) just check on the project page how to set up a development environment and get going.
 
@@ -88,7 +88,7 @@ The most important thing about designing in open source is communication. Design
 Learn about design concepts!
 
 * [Hack Design](https://hackdesign.org/) Free design lessons by inspirational designers.
-* [Design Lab](http://trydesignlab.com/) Design course with mentorshop and projects.
+* [Design Lab](http://trydesignlab.com/) Design course with mentorship and projects.
 * [Voice and Tone](http://voiceandtone.com/) Learn about writing good copy.
 
 
@@ -103,3 +103,4 @@ Learn about design concepts!
 * [Design Open Src](http://designopensrc.com/index.html#/) A list of awesome designers willing to work on Open Src projects, created by @clintonhalpin
 * [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design and hardware group.
 * [PIXLS.US](https://pixls.us) Free/Open Source Photography
+
