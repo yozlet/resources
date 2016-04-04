@@ -79,13 +79,6 @@ The most important thing about designing in open source is communication. Design
 * [Bootstrap](http://getbootstrap.com) HTML, CSS & Javascript framework
 * [How Not To Design a Portfolio](http://www.alexcornell.com/the-worst-portfolio-ever/)
 * [Wordpress](http://wordpress.org) themes – but design is not theming
-### Searching The Creative Commons
-* [Creative Commons search](http://search.creativecommons.org)
-* [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
-* [Flickr](https://flickr.com/creativecommons/)
-* [Youtube](https://www.youtube.com/creativecommons)
-* [SoundCloud](http://soundcloud.com/creativecommons)
-
 * [Open Design Now](http://opendesignnow.org/) book
 * [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
 * [How to get designers (or anyone) to work on your open source project](http://designopen.org/articles/import-designers/) recent article on Design Open
@@ -94,6 +87,13 @@ The most important thing about designing in open source is communication. Design
 * [Designers and women in open source](http://old.vi.to/designers-and-women-in-open-source.html) Why designing is difficult for Open Source
 * [Designers, Women, and Hostility in Open Source Project](http://smarterware.org/7550/designers-women-and-hostility-in-open-source) Follow up to the above article.
 * [Barriers for Designers](http://designopen.org/articles/barriers-for-designers/) What bariers designers face when contributing to Open Source
+
+## Searching The Creative Commons
+* [Creative Commons search](http://search.creativecommons.org)
+* [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
+* [Flickr](https://flickr.com/creativecommons/)
+* [Youtube](https://www.youtube.com/creativecommons)
+* [SoundCloud](http://soundcloud.com/creativecommons)
 
 ## Learn to Code
 (Focused on HTML, CSS, Javascript.) Ideally, to be able to implement your own suggestions. But also to better discuss with developers and be understand why and how certain things work and don’t work.
