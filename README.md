@@ -73,6 +73,18 @@ The most important thing about designing in open source is communication. Design
 * [Design principles for UI/UX](http://learndesignprinciples.com/)
 
 ## Open Source and Design Reads
+=======
+* [The Noun Project](http://thenounproject.com) for icons
+* [The League of Movable Type](https://www.theleagueofmoveabletype.com/), [Open Font Library](http://openfontlibrary.org), [Google Web Fonts](http://google.com/fonts)
+* [Bootstrap](http://getbootstrap.com) HTML, CSS & Javascript framework
+* [How Not To Design a Portfolio](http://www.alexcornell.com/the-worst-portfolio-ever/)
+* [Wordpress](http://wordpress.org) themes – but design is not theming
+### Searching The Creative Commons
+* [Creative Commons search](http://search.creativecommons.org)
+* [Wikimedia](https://commons.wikimedia.org/wiki/Main_Page)
+* [Flickr](https://flickr.com/creativecommons/)
+* [Youtube](https://www.youtube.com/creativecommons)
+* [SoundCloud](http://soundcloud.com/creativecommons)
 
 * [Open Design Now](http://opendesignnow.org/) book
 * [Usability in Free Software](http://jancborchardt.net/usability-in-free-software)
