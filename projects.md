@@ -1,3 +1,10 @@
+---
+layout: default
+title: Projects
+permalink: /resources/projects/
+---
+
+
 # Projects
 
 Open source projects with good design or a design team.

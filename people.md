@@ -1,3 +1,9 @@
+---
+layout: default
+title: Resources
+permalink: /resources/people/
+---
+
 # People
 
 Designers who work heavily on open source projects and release open source design tools.
