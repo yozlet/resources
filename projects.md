@@ -15,7 +15,7 @@ Open source projects with good design or a design team.
 * [Canonical (Ubuntu)](http://ubuntu.com), [Design blog](http://design.canonical.com)
 * [Wordpress](http://wordpress.org), [Design discussion](http://make.wordpress.org/ui/)
 * [Drupal](http://drupal.org), [usability group](https://groups.drupal.org/usability), [UI standards](https://drupal.org/ui-standards)
-* [ownCloud](http://owncloud.org) data sync & sharing, [Design issues on Github](https://github.com/owncloud/core/issues?labels=Design), [Design blog](https://owncloud.com/category/design/)
+* [Nextcloud](http://nextcloud.com) data sync & sharing, [Design issues on Github](https://github.com/nextcloud/core/issues?labels=design)
 * [Diaspora](https://diasporafoundation.org/) decentralized social network, [UI issues on Github](https://github.com/diaspora/diaspora/issues?labels=ui)
 * [MediaGoblin](http://mediagoblin.org/) media platform
 * [BeWelcome](http://www.bewelcome.org/) hospitality platform
@@ -25,3 +25,4 @@ Open source projects with good design or a design team.
 * [Ghost](https://ghost.org/) simple blogging platform
 * [Terms of Service; Didn’t Read](http://tosdr.org/) contract rating
 * [Libre Office](https://www.libreoffice.org/), [Design Community](https://www.libreoffice.org/community/design/)
+* [GitLab](https://about.gitlab.com/)
