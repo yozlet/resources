@@ -138,8 +138,7 @@ Fonts](http://google.com/fonts)
 Portfolio](http://www.alexcornell.com/the-worst-portfolio-ever/)
 * [Wordpress](http://wordpress.org) themes – but design is not theming
 * [Open Design Now](http://opendesignnow.org/) book
-* Usability in Free 
-Software](http://jancborchardt.net/usability-in-free-software)
+* [Usability in Free Software](http://jancborchardt.net/usability-in-free-software) thesis
 * [How to get designers (or anyone) to work on your open source 
 project](http://designopen.org/articles/import-designers/) recent article on 
 Design Open
