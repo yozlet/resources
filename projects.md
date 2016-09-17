@@ -26,3 +26,5 @@ Open source projects with good design or a design team.
 * [Terms of Service; Didn’t Read](http://tosdr.org/) contract rating
 * [Libre Office](https://www.libreoffice.org/), [Design Community](https://www.libreoffice.org/community/design/)
 * [GitLab](https://about.gitlab.com/)
+* [Material Theme](https://github.com/equinusocio/material-theme)
+* [CKD-CSS](https://github.com/equinusocio/ckdcss)
