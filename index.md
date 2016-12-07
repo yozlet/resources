@@ -30,8 +30,8 @@ work needed.
 * Design discussion on the issue tracker of the project. For example at 
 [GitHub](http://github.com) – get an account, identify design issues, 
 participate, and open new issues. Establish a »Design« tag on the tracker to 
-group these issues, for example like in the [ownCloud 
-issues](https://github.com/owncloud/core/issues?labels=Design).
+group these issues, for example like in the [Nextcloud 
+issues](https://github.com/nextcloud/core/issues?labels=Design).
 * If you want to dive into the code (awesome!) just check on the project page 
 how to set up a development environment and get going.
 
