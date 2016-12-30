@@ -2,9 +2,9 @@
 
 Are you a designer interested in doing open source design or simply seeing what open source can offer you to work on your non-open source projects? Look no further. Here is a collection of great tools, libraries, reading material, and media for you to use, for free (as in cost), while you spread the free (as in freedom) love of open source design!
 
-- [Projects](/resources/projects/) - list of open source projects with an 
+- [Projects](projects.md) - list of open source projects with an 
 attenion to design
-- [People](/resources/people/) - list of designers who work heavily on open 
+- [People](people.md) - list of designers who work heavily on open 
 source projects and tools  
 
 ---
